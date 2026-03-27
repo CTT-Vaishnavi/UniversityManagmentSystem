@@ -163,8 +163,10 @@ This project was built as a learning experience to understand how real-world sys
 ---
 
 👩‍💻 Author
+
+
 Vaishnavi Shinde
+
 💼 Aspiring Software Engineer
 🚀 Aspiring Full Stack Developer (Java + Web Development)
 🌐 Passionate about building real-world applications
-🔗 GitHub: https://github.com/your-username/university-management-system.git⁠�
