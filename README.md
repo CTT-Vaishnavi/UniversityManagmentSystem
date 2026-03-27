@@ -80,19 +80,33 @@ Follow these steps to run the project locally:
 
 - 🌐 Convert into a web-based application
 - 🔐 Add authentication & role-based access (Admin/Student/Faculty)
-- 📊 Advanced analytics & reporting
+- Role-Based Access Control
+-💵 Payment Gateway Integration
+- 📊 Analytics Dashboard
 - 📱 Mobile-friendly version
-- 💳 Online payment integration
 
 ---
+⚙️ How to Run (NetBeans Style)
 
-🙌 Final Note
-
-This project was built as a learning experience to understand how real-world systems manage structured data using Java and databases. There’s always room for improvement, and future versions can make it even more scalable and user-friendly.
+1. Open NetBeans IDE
+2. File → Open Project
+3. Select project folder
+4. Configure MySQL in Services tab
+5. Update DB credentials in code
+6. Run Main.java
 
 ---
-👩‍💻 Author
+🙌Final Note
+
+This project was built as a learning experience to understand how real-world systems manage structured data using Java and databases.This project demonstrates real-world CRUD operations,database connectivity, and structured application design using Java — similar to enterprise-level systems.
+
+---
+🙌 Author
 Vaishnavi Shinde
-🔗 GitHub: https://github.com/your-username/university-management-system.git
+💼 Aspiring Software Engineer
+🚀 Aspiring Full Stack Developer (Java + Web Development)
+🌐 Passionate about building real-world applications using Java and modern web technologies
+🔗 GitHub: https://github.com/your-username/university-management-system.git⁠�
+
 ---
 ⭐ If you found this project helpful, consider giving it a star!
