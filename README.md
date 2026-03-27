@@ -29,11 +29,14 @@ The goal behind this project was to create a practical system that reduces manua
 
 🛠️ Tech Stack
 
-- Java (Swing/AWT) – GUI development
+- Java (AWT) – GUI development
 - JDBC – Database connectivity
 - MySQL – Backend database
 - IDE – NetBeans IDE
-
+☕ Java – Core application logic
+🗄️ MySQL – Database management
+🔌 JDBC – Database connectivity
+🌐 HTML/CSS (if used) – Basic frontend design
 ---
 
 🗄️ Database Schema (Overview)
@@ -88,3 +91,8 @@ Follow these steps to run the project locally:
 This project was built as a learning experience to understand how real-world systems manage structured data using Java and databases. There’s always room for improvement, and future versions can make it even more scalable and user-friendly.
 
 ---
+👩‍💻 Author
+Vaishnavi Shinde
+🔗 GitHub: https://github.com/your-username/university-management-system.git
+---
+⭐ If you found this project helpful, consider giving it a star!
