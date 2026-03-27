@@ -125,18 +125,7 @@ GUI will launch automatically
 
 ---
 
-📸 Screenshots
 
-🖼️ Application Preview (Neat Grid Gallery)
-
-<p align="center">
-  <img src="screenshots/login.png" width="45%" />
-  <img src="screenshots/dashboard.png" width="45%" />
-</p><p align="center">
-  <img src="screenshots/student.png" width="45%" />
-  <img src="screenshots/result.png" width="45%" />
-</p>
----
 
 📂 Screens Included
 
@@ -147,8 +136,6 @@ GUI will launch automatically
 👨‍🎓 Student Management Panel
 
 📝 Result Section
-
-
 
 ---
 
@@ -175,12 +162,9 @@ This project was built as a learning experience to understand how real-world sys
 
 ---
 
-✨ Extra Styling Tip (Optional Upgrade)
-
-If you want even more clean NetBeans-like look:
-
-<p align="center">
-  <img src="screenshots/login.png" width="30%" />
-  <img src="screenshots/dashboard.png" width="30%" />
-  <img src="screenshots/student.png" width="30%" />
-</p>
+👩‍💻 Author
+Vaishnavi Shinde
+💼 Aspiring Software Engineer
+🚀 Aspiring Full Stack Developer (Java + Web Development)
+🌐 Passionate about building real-world applications
+🔗 GitHub: https://github.com/your-username/university-management-system.git⁠�
